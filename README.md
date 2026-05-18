@@ -56,7 +56,7 @@ Responsibility Assignment
 | Alligator Crack | D20 | Interconnected crack network |
 | Pothole | D40 | Surface depression / material loss |
 
-## Class distribution and split
+## Dataset Distribution & Split
 
 
 <img width="1142" height="402" alt="1" src="https://github.com/user-attachments/assets/8228364f-728f-4250-8e04-930b0e61348c" />
@@ -121,3 +121,10 @@ Custom Albumentations pipeline simulating Saudi road conditions (applied to 80% 
 - Pothole class is underrepresented in RDD2022
 - MiDaS depth is relative, not metric
 - GIS boundaries are simulated, not live municipal data
+
+
+  ---------
+  ## note
+  To download the fine-tuned model, visit the Kaggle Model repository:
+  
+  https://www.kaggle.com/models/lamaww/yolov8m-rdd-saudi-enhanced
